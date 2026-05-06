@@ -10,6 +10,7 @@
         <module name="Mediator" />
         <module name="Facade" />
         <module name="Flyweight" />
+        <module name="Command" />
       </profile>
     </annotationProcessing>
   </component>
