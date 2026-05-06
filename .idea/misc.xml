@@ -8,6 +8,7 @@
         <option value="$PROJECT_DIR$/Memento/pom.xml" />
         <option value="$PROJECT_DIR$/Flyweight/pom.xml" />
         <option value="$PROJECT_DIR$/Mediator/pom.xml" />
+        <option value="$PROJECT_DIR$/Facade/pom.xml" />
       </list>
     </option>
   </component>

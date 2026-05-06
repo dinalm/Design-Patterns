@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="Memento" />
         <module name="Mediator" />
+        <module name="Facade" />
         <module name="Flyweight" />
       </profile>
     </annotationProcessing>
